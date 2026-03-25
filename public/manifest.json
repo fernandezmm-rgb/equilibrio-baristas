@@ -1,0 +1,21 @@
+{
+  "name": "Equilibrio Coffee House",
+  "short_name": "Equilibrio",
+  "description": "Entrenamiento de Baristas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c1c1c",
+  "theme_color": "#1c1c1c",
+  "icons": [
+    {
+      "src": "/icon.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
